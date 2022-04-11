@@ -1,4 +1,4 @@
-﻿Manifesto Aberto da Rede de Implementação Temática GO-FAIR Agro Brasil
+#Manifesto Aberto da Rede de Implementação Temática GO-FAIR Agro Brasil
 
 
 GO-FAIR é uma iniciativa internacional, dirigida pelas partes interessadas e autogovernada, que promove a implantação dos princípios FAIR nas ações de governança e de gestão de dados e de objetos digitais, a fim de torná-los localizáveis, acessíveis, interoperáveis e reutilizáveis (do inglês FAIR - Findable, Accessible, Interoperable, Reusable[^1]).
@@ -7,7 +7,7 @@ A Rede GO-FAIR Agro Brasil é uma rede de implementação temática que se prop�
 
 A missão da Rede GO FAIR Brasil Agro consiste em trabalhar de modo articulado e colaborativo para fomentar o  compartilhamento e reúso dos dados produzidos no âmbito dos sistemas produtivos agropecuários e também aqueles oriundos de pesquisas em ciências agrárias[^2], bem como a adoção dos princípios FAIR. Seu funcionamento se dá por meio de Grupos de Trabalho que desenvolvem ações de forma cooperativa e voluntária. Como objetivos específicos, a Rede apresenta:
 
-\1. Promover pesquisas e desenvolver:
+1. Promover pesquisas e desenvolver:
 
 `   `a. repositórios confiáveis para armazenamento e preservação de dados;
 
@@ -19,11 +19,11 @@ A missão da Rede GO FAIR Brasil Agro consiste em trabalhar de modo articulado e
 
 `   `e. políticas de acesso e reúso dos dados, respeitado a legislação em vigor.
 
-\2. Desenvolver metodologias adequadas aplicadas aos produtos e serviços FAIR, que atendam às especificidades epistemológicas e operacionais das pesquisas em ciências agrárias e áreas afins e às boas práticas de gestão de dados no contexto agropecuário.
+2. Desenvolver metodologias adequadas aplicadas aos produtos e serviços FAIR, que atendam às especificidades epistemológicas e operacionais das pesquisas em ciências agrárias e áreas afins e às boas práticas de gestão de dados no contexto agropecuário.
 
-\3. Promover encontros, cursos, workshops e seminários para impulsionar e disseminar os princípios FAIR entre a comunidade científica e instituições que produzem dados em ciências agrárias e áreas afins, assim como dados oriundos de práticas agropecuárias, contribuindo também com a capacitação de estudantes e docentes de ensino superior.
+3. Promover encontros, cursos, workshops e seminários para impulsionar e disseminar os princípios FAIR entre a comunidade científica e instituições que produzem dados em ciências agrárias e áreas afins, assim como dados oriundos de práticas agropecuárias, contribuindo também com a capacitação de estudantes e docentes de ensino superior.
 
-\4. Trabalhar de forma articulada com a Rede [GO FAIR Brasil](https://www.go-fair-brasil.org/) e as demais redes de implementação temáticas nacionais, com a Rede [GO FAIR internacional](https://www.go-fair.org/) e também com a Rede de Implementação Internacional [*Food Systems*](https://www.go-fair.org/implementation-networks/overview/food-systems/).
+4. Trabalhar de forma articulada com a Rede [GO FAIR Brasil](https://www.go-fair-brasil.org/) e as demais redes de implementação temáticas nacionais, com a Rede [GO FAIR internacional](https://www.go-fair.org/) e também com a Rede de Implementação Internacional [*Food Systems*](https://www.go-fair.org/implementation-networks/overview/food-systems/).
 
 Consideramos este Manifesto uma forma pela qual as partes interessadas abaixo assinadas podem falar a uma só voz sobre uma série de questões críticas que são de importância para os objetivos do FAIR, e sobre as quais acreditamos ter chegado a um consenso.
 
