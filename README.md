@@ -9,15 +9,15 @@ A missão da Rede GO FAIR Brasil Agro consiste em trabalhar de modo articulado e
 
 1. Promover pesquisas e desenvolver:
 
-`   `a. repositórios confiáveis para armazenamento e preservação de dados;
+    a. repositórios confiáveis para armazenamento e preservação de dados;
 
-`   `b. padrões de metadados específicos;
+    b. padrões de metadados específicos;
 
-`   `c. padrões de interoperabilidade tecnológica e semântica dos dados;
+    c. padrões de interoperabilidade tecnológica e semântica dos dados;
 
-`   `d. modelos de planos de gestão de dados;
+    d. modelos de planos de gestão de dados;
 
-`   `e. políticas de acesso e reúso dos dados, respeitado a legislação em vigor.
+    e. políticas de acesso e reúso dos dados, respeitado a legislação em vigor.
 
 2. Desenvolver metodologias adequadas aplicadas aos produtos e serviços FAIR, que atendam às especificidades epistemológicas e operacionais das pesquisas em ciências agrárias e áreas afins e às boas práticas de gestão de dados no contexto agropecuário.
 
