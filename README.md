@@ -1,4 +1,4 @@
-#Manifesto Aberto da Rede de Implementação Temática GO-FAIR Agro Brasil
+Manifesto Aberto da Rede de Implementação Temática GO-FAIR Agro Brasil
 
 
 GO-FAIR é uma iniciativa internacional, dirigida pelas partes interessadas e autogovernada, que promove a implantação dos princípios FAIR nas ações de governança e de gestão de dados e de objetos digitais, a fim de torná-los localizáveis, acessíveis, interoperáveis e reutilizáveis (do inglês FAIR - Findable, Accessible, Interoperable, Reusable[^1]).
